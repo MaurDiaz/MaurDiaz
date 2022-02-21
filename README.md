@@ -2,7 +2,7 @@ I'm a mid-career engineering professional pivoting into technology.
 
 With well-rounded skills in analyzing complex processes and systems, collaborating and communicating effectively in 
 cross-functional teams and understanding client needs and translating them into customized solutions, I look forward 
-to play a part in the process of developing and integrating software into a business workflow.
+to playing a part in the process of developing and integrating software into a business workflow.
 
 With a global and multicultural perspective at the intersection of technology and engineering, I have a strong motivation 
 to grow and excel by building upon the foundations of C#, Python, JavaScript, HTML, CSS, SQL and Git. 
