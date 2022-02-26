@@ -12,7 +12,7 @@ in software development completed in December 2021. (https://edgeupyyc.com/)
 
 In 2022, my learning journey has continued with AWS Cloud Technical Essentials. I'm also planning to learn:
 
-- ASP.NET Core
+- .NET 6
 - NoSQL (MongoDB, DynamoDB)
 - RESTFul API
 - ... and more
